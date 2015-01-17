@@ -1,0 +1,31 @@
+{
+  "name": "float-regex",
+  "version": "0.0.0",
+  "description": "regular expression to match floating point numbers",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/float-regex.git"
+  },
+  "homepage": "https://github.com/substack/float-regex",
+  "keywords": [
+    "regex",
+    "regexp",
+    "regular expression",
+    "floating",
+    "point"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
