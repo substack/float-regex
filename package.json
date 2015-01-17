@@ -1,7 +1,7 @@
 {
   "name": "float-regex",
-  "version": "0.0.0",
-  "description": "regular expression to match floating point numbers",
+  "version": "1.0.0",
+  "description": "regular expression to match floating point numbers in javascript notation",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
