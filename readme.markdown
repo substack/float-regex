@@ -30,6 +30,12 @@ var str = '1.2  555    beep boop 4.2.1.5 66.2e99  22.54e23 qrs2';
 console.log(str.match(capture));
 ```
 
+which prints:
+
+```
+[ '1.2', '555', '4.2', '.1', '.5', '66.2e99', '22.54e23' ]
+```
+
 # install
 
 With [npm](https://npmjs.org) do:
